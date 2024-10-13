@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ts-1088")(type "KiCad")(uri "${KIPRJMOD}/IMPORTS/button/ts-1088.pretty")(options "")(descr ""))
+  (lib (name "red")(type "KiCad")(uri "${KIPRJMOD}/IMPORTS/led/red.pretty")(options "")(descr ""))
+  (lib (name "usbc")(type "KiCad")(uri "${KIPRJMOD}/IMPORTS/usbc/usbc.pretty")(options "")(descr ""))
+)

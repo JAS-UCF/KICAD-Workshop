@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ts-1088")(type "KiCad")(uri "${KIPRJMOD}/IMPORTS/button/ts-1088.kicad_sym")(options "")(descr ""))
+  (lib (name "red")(type "KiCad")(uri "${KIPRJMOD}/IMPORTS/led/red.kicad_sym")(options "")(descr ""))
+  (lib (name "usbc")(type "KiCad")(uri "${KIPRJMOD}/IMPORTS/usbc/usbc.kicad_sym")(options "")(descr ""))
+)
