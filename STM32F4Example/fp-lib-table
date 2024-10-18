@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "x32")(type "KiCad")(uri "${KIPRJMOD}/IMPORTS/osc/x32.pretty")(options "")(descr ""))
   (lib (name "az1117")(type "KiCad")(uri "${KIPRJMOD}/IMPORTS/ldo/az1117.pretty")(options "")(descr ""))
+  (lib (name "gt-usb-7010")(type "KiCad")(uri "${KIPRJMOD}/IMPORTS/usbc/gt-usb-7010.pretty")(options "")(descr ""))
 )
