@@ -1735,6 +1735,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C165948"
+			(at 55.5341 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "0"
 			(uuid "abb72959-3da1-4990-a213-7cdbdf8bbb81")
 		)
@@ -1993,6 +2002,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C23186"
+			(at 31.75 142.2399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "43df886a-41f4-48ce-ad35-d1b63b7b38aa")
 		)
@@ -2069,6 +2087,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C99771"
+			(at 155.702 130.048 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "88b5a0a8-fa33-479e-a0e5-88eaad68930b")
 		)
@@ -2079,142 +2106,6 @@
 			(project "KiCADWorkshopExample"
 				(path "/79832512-3811-4572-800a-387bf63a980c"
 					(reference "LED4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 146.05 85.09 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "363cb334-e968-4af9-9590-db4147e390cf")
-		(property "Reference" "R2"
-			(at 146.05 78.74 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "120"
-			(at 146.05 81.28 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 146.05 86.868 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 146.05 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 146.05 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "b971fe2e-a5c2-4483-9006-291bceb514f6")
-		)
-		(pin "1"
-			(uuid "8f898788-1e30-4fcb-9e8b-67c3d3b73e4b")
-		)
-		(instances
-			(project "KiCADWorkshopExample"
-				(path "/79832512-3811-4572-800a-387bf63a980c"
-					(reference "R2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 147.32 133.35 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "38bde21b-9028-4535-8bc1-64d678bda326")
-		(property "Reference" "R4"
-			(at 147.32 127 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "120"
-			(at 147.32 129.54 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 147.32 135.128 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 147.32 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 147.32 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "f090ef01-6ad1-4549-b2c0-8bf9ea3d33ad")
-		)
-		(pin "1"
-			(uuid "df2208ca-5749-4522-acb2-6495324169c5")
-		)
-		(instances
-			(project "KiCADWorkshopExample"
-				(path "/79832512-3811-4572-800a-387bf63a980c"
-					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -2277,6 +2168,15 @@
 		)
 		(property "LCSC Part" "C318884"
 			(at 147.32 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C318884"
+			(at 135.89 63.4999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2368,6 +2268,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C318884"
+			(at 135.89 88.8999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fe6e3e5d-eaf0-40fa-b6a8-8edb7096e95f")
 		)
@@ -2417,7 +2326,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4_DIN965_Pad"
+		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4_DIN965_Pad_TopBottom"
 			(at 38.1 179.07 0)
 			(effects
 				(font
@@ -2638,6 +2547,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 76.2 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C23186"
+			(at 78.74 149.8599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2913,6 +2831,15 @@
 		)
 		(property "LCSC Part" "C99771"
 			(at 158.75 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C99771"
+			(at 154.432 81.026 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3203,6 +3130,83 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 146.05 85.09 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a860ccef-f3df-4b18-8932-5b3df429a5e9")
+		(property "Reference" "R2"
+			(at 146.05 78.74 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100"
+			(at 146.05 81.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 146.05 86.868 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 146.05 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 146.05 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17408"
+			(at 146.05 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "4ef58239-50f3-4b9a-bc2b-fd7fb9092f7d")
+		)
+		(pin "1"
+			(uuid "23991289-abd7-446a-90b5-98830aebbca7")
+		)
+		(instances
+			(project "KiCADWorkshopExample"
+				(path "/79832512-3811-4572-800a-387bf63a980c"
+					(reference "R2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 38.1 181.61 0)
 		(unit 1)
@@ -3270,6 +3274,83 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 147.32 133.35 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b4ceb72d-4bb9-4fd7-b294-53a96ff008b2")
+		(property "Reference" "R4"
+			(at 147.32 127 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100"
+			(at 147.32 129.54 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 147.32 135.128 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 147.32 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 147.32 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17408"
+			(at 147.32 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d7f1a3ec-06c1-41cb-9835-9e38feff5f31")
+		)
+		(pin "1"
+			(uuid "26374072-4104-48ed-afb6-ec6f883f223a")
+		)
+		(instances
+			(project "KiCADWorkshopExample"
+				(path "/79832512-3811-4572-800a-387bf63a980c"
+					(reference "R4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 168.91 85.09 0)
 		(unit 1)
@@ -3331,6 +3412,83 @@
 			(project "KiCADWorkshopExample"
 				(path "/79832512-3811-4572-800a-387bf63a980c"
 					(reference "#PWR04")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 147.32 110.49 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c0249366-0d66-441e-b32d-c3045f04e028")
+		(property "Reference" "R3"
+			(at 147.32 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100"
+			(at 147.32 106.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 147.32 112.268 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 147.32 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 147.32 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17408"
+			(at 147.32 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c15f1164-cdad-4296-803e-9dc616b831f5")
+		)
+		(pin "1"
+			(uuid "adb6e816-c2c7-4f27-8db3-414a10ff9a52")
+		)
+		(instances
+			(project "KiCADWorkshopExample"
+				(path "/79832512-3811-4572-800a-387bf63a980c"
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -3598,6 +3756,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C99771"
+			(at 154.432 56.134 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d2b86944-6169-40c8-8402-cb3b0c282ee9")
 		)
@@ -3670,6 +3837,15 @@
 		)
 		(property "LCSC Part" "C318884"
 			(at 148.59 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C318884"
+			(at 137.16 114.2999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3759,6 +3935,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C99771"
+			(at 155.448 107.188 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a6389c54-1ff2-413e-ab7d-35dcab0ac36e")
 		)
@@ -3792,7 +3977,7 @@
 				)
 			)
 		)
-		(property "Value" "120"
+		(property "Value" "100"
 			(at 146.05 55.88 90)
 			(effects
 				(font
@@ -3827,6 +4012,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C17408"
+			(at 146.05 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "095d7c0e-aea4-4f1f-aae1-f2cedeee3f37")
 		)
@@ -3837,74 +4031,6 @@
 			(project "KiCADWorkshopExample"
 				(path "/79832512-3811-4572-800a-387bf63a980c"
 					(reference "R1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 147.32 110.49 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f5678417-7bdd-4692-99f6-ef9cd1926b0a")
-		(property "Reference" "R3"
-			(at 147.32 104.14 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "120"
-			(at 147.32 106.68 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 147.32 112.268 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 147.32 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 147.32 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "34581bc1-e6ae-4b29-a311-9d22d61cdb9f")
-		)
-		(pin "1"
-			(uuid "c7e33f08-ee18-4460-80a9-a5bfe5a1e320")
-		)
-		(instances
-			(project "KiCADWorkshopExample"
-				(path "/79832512-3811-4572-800a-387bf63a980c"
-					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -3967,6 +4093,15 @@
 		)
 		(property "LCSC Part" "C318884"
 			(at 148.59 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C318884"
+			(at 137.16 137.1599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
